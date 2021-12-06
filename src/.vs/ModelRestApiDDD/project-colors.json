@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fb96419-87f6-4483-8d91-e354b065ba56": {
+      "ProjectGuid": "2fb96419-87f6-4483-8d91-e354b065ba56",
+      "DisplayName": "ModelRestApiDDD.Application",
+      "ColorIndex": 0
+    },
+    "82d865db-af5f-4afb-ab58-a9dcfee4e107": {
+      "ProjectGuid": "82d865db-af5f-4afb-ab58-a9dcfee4e107",
+      "DisplayName": "ModelRestApiDDD.Infrastructure",
+      "ColorIndex": 1
+    },
+    "f2f1212b-6346-428c-b37c-b5ffd504a36c": {
+      "ProjectGuid": "f2f1212b-6346-428c-b37c-b5ffd504a36c",
+      "DisplayName": "ModelRestApiDDD.Domain.Services",
+      "ColorIndex": 2
+    },
+    "553bfa18-5946-4946-a3c6-dd0824457a18": {
+      "ProjectGuid": "553bfa18-5946-4946-a3c6-dd0824457a18",
+      "DisplayName": "ModelRestApiDDD.Api",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
